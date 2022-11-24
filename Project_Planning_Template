@@ -1,0 +1,22 @@
+As-Is Case Process Model (current state)  (SMEs, Project Sponsor)
+Create JAD documents (Systems Context Diagram, ERD, data dictionary, glossary) 
+To-Be Case Process Model (future state) Goal, What do I want to happen?, What question do I want to answer? Metrics, KPI, What does success look like? (Project Sponsor, SMEs)
+Gap Analysis: Project to be done, Do the project to close the gap between the current and future states (Project Sponsor, SMEs)
+Feasibility Study:  How to close the gap?  (SMEs, Project Sponsor, Stakeholders)
+Business Case:  What is the best option from the alternatives in the feasibility study? (Project Sponsor)
+BRD:  Problem Statement, Solution Statement, Systems Impacted, Contengencies, Business Requirements, (Project Sponsor)
+Project Charter: Project Sponsor approval
+Schedule JAD Sessions with SMEs
+Understand Business using JAD documents
+FRD(wireframe with UI|Business Rules|data mapping) or Use Case or User Story (SMEs approval) 
+Project Plans: (scope, budget, timeline) Project Sponsor approval
+Execute: 
+Design
+Test
+Deploy
+Monitor Requirements Tracking
+Close Project (client acceptance)
+
+
+
+
