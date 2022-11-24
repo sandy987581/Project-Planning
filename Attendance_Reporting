@@ -1,0 +1,24 @@
+Attendance taken manually and communicated via phone call at monthly check-in with program managers ## As-Is Case Process Model (current state)  (SMEs, Project Sponsor)
+Attendance data kept in multiple spreadsheets ## Create JAD documents (Systems Context Diagram, ERD, data dictionary, glossary) 
+
+**Never decided on the future case what will the process be ## To-Be Case Process Model (future state) Goal, What do I want to happen?, What question do I want to answer? Metrics, KPI, What does success look like? (Project Sponsor, SMEs)
+** Project never really worked. The pilot was approved but it never really worked and was discontinued after (2) pilots with only 3-4 weeks of attendance reported
+
+Gap Analysis: Project to be done, Do the project to close the gap between the current and future states (Project Sponsor, SMEs)
+Feasibility Study:  How to close the gap?  (SMEs, Project Sponsor, Stakeholders)
+Business Case:  What is the best option from the alternatives in the feasibility study? (Project Sponsor)
+BRD:  Problem Statement, Solution Statement, Systems Impacted, Contengencies, Business Requirements, (Project Sponsor)
+Project Charter: Project Sponsor approval
+Schedule JAD Sessions with SMEs
+Understand Business using JAD documents
+FRD(wireframe with UI|Business Rules|data mapping) or Use Case or User Story (SMEs approval) 
+Project Plans: (scope, budget, timeline) Project Sponsor approval
+Execute: 
+Design
+Test
+Deploy
+Monitor Requirements Tracking
+Close Project (client acceptance)
+
+
+
